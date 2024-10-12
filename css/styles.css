@@ -1,0 +1,160 @@
+body
+{
+font-family: "Roboto", sans-serif;
+color:#434455;
+background:#FFFFFF;
+}
+.link_logo
+{
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color:#4d5ae5;}
+
+.link_logo:hover
+
+{
+    color:#404bbf;
+}
+.link_logo:focus 
+{
+    color: #404bbf;
+}
+
+
+.nav_title 
+{
+color: #2e2f42;
+}
+.nav-item:hover
+{
+color: #404bbf
+}
+.nav-item:focus
+ {
+    color:#404bbf
+}
+
+.nav-item
+{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#2e2f42;
+
+}
+.nav_address 
+{
+font-style: normal;
+}
+.nav_address_item
+{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#434455;
+}
+.nav_address_item:hover
+{
+color: #404bbf;
+}
+.nav_address_item:focus
+ {
+    color: #404bbf;
+}
+.section_one_background
+{
+background: #2e2f42;
+}
+.title_section
+{
+line-height: 1.07;
+font-size: 56px;
+text-align: center;
+letter-spacing: 0.02em;
+color: #ffffff;
+}
+.button_background
+{
+background: #4d5ae5;
+font-family: "Roboto", sans-serif;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
+}
+.button_background:hover
+{
+background-color: #404BBF;
+}
+.button_background:focus
+{
+background-color: #404BBF
+}
+.title_section_two
+{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:#2e2f42;
+}
+.paragraph_section_two
+{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#434455;
+}
+.section_three_background
+{
+background-color: #F4F4FD;
+}
+.title_section_three
+{
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color:#2e2f42;
+}
+.team_card
+{
+background-color: #FFFFFF;
+}
+.card_title 
+{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color:#2e2f42;
+}
+.card_description
+{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:#434455;
+}
+.footer_background
+{
+background-color:#2e2f42;
+}
+.footer_paragraph
+{
+line-height: 1.5;
+color:#F4F4FD;
+letter-spacing: 0.02em;
+}
+.footer_title
+{
+color: #f4f4fd;
+}
