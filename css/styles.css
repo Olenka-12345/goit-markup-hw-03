@@ -5,11 +5,6 @@ color:#434455;
 background:#FFFFFF;
 }
 
-.section
-{
-padding-top: 120px;
-padding-bottom: 120px;
-}
 .container
 {
 max-width: 1158px;
@@ -274,6 +269,10 @@ display: flex;
 flex-wrap: wrap;
 column-gap: 24px;
 row-gap: 48px;
+}
+.our-portfolio-two
+{
+margin-bottom: 8px
 }
 .our-team-item-one {
 width: calc((100% - 48px) / 3)
