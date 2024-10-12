@@ -26,6 +26,14 @@ a
 {
 text-decoration: none;
 }
+img
+{
+display: block;
+}
+.title_section
+{
+visibility: hidden;
+}
 .page-header
 {
 border-bottom: 1px solid #e7e9fc;
